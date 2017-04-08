@@ -20,6 +20,6 @@ The last thing to do is to import the database from "projet sil\database\" and p
 
 * [Eclipse](http://www.eclipse.org/downloads/eclipse-packages/) -  Integrated development environment
 
-## Authors
+## Author
 
 * **Yaaqoub Semlali** - [GitHub](https://github.com/Yaaqoub) - [LinkedIn](https://www.linkedin.com/in/semlaliyaaqoub)

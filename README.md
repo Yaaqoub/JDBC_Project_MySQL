@@ -13,8 +13,8 @@ This project is still under development so if you run it, you will still find bu
 To run this project you need to import it to the eclipse IDE:
   - eclipse -> File -> Open Projects from File System...
   - Directory... -> select the project from file system
-After that copy the Jar file from "projet sil\jar files\" to the project in eclipse to run the application properly.
-The last thing to do is to import the database from "projet sil\database\" and put it in a MySQL server to run it.
+After that copy the Jar file from "projet\jar files\" to the project in eclipse to run the application properly.
+The last thing to do is to import the database from "projet\database\" and put it in a MySQL server to run it.
 
 ## Built With
 
